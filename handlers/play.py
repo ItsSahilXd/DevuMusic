@@ -135,7 +135,7 @@ async def play(_, message: Message):
                 try:
                     await USER.join_chat(invitelink)
                     await USER.send_message(
-                        message.chat.id, "sɪʟᴇɴᴛ-ᴍᴜsɪᴄ's ᴀssɪsᴛᴀɴᴛ ᴊᴏɪɴ ᴛʜᴇ ᴄʜᴀᴛ ᴡᴏᴡ🧚‍♀️🥀")
+                        message.chat.id, "𝙽𝙸𝙲𝙾 𝚁𝙾𝙱𝙸𝙽'𝚂 ᴀssɪsᴛᴀɴᴛ ᴊᴏɪɴ ᴛʜᴇ ᴄʜᴀᴛ ᴡᴏᴡ🧚‍♀️🥀")
 
                 except UserAlreadyParticipant:
                     pass
@@ -174,11 +174,11 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="ѕυρρσят",
+                            url=f"https://t.me/nico_robin_support"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            text="υρ∂αтєѕ",
+                            url=f"https://t.me/nico_robin_updates"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -218,11 +218,11 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="ѕυρρσят",
+                            url=f"https://t.me/nico_robin_support"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            text="υρ∂αтєѕ",
+                            url=f"https://t.me/nico_robin_updates"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -239,11 +239,11 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="ѕυρρσят",
+                            url=f"https://t.me/nico_robin_support"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            text="υρ∂αтєѕ",
+                            url=f"https://t.me/nico_robin_updates"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
@@ -298,11 +298,11 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="ᴛᴇᴀᴍ-sɪʟᴇɴᴛ🥀",
-                            url=f"https://t.me/SILENT_DEVS"),
+                            text="ѕυρρσят",
+                            url=f"https://t.me/nico_robin_support"),
                     InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs👾",
-                            url=f"https://t.me/SILENT_BOTS"),
+                            text="υρ∂αтєѕ",
+                            url=f"https://t.me/nico_robin_updates"),
                ],
                [
                    InlineKeyboardButton(text="Close Menu", callback_data="close_"),                   
